@@ -1,0 +1,13 @@
+#logo
+{
+    width: 150px;
+    border-radius: 100px;
+}
+body
+{
+background-image: linear-gradient(to right top, #eed297,  #ec9b90, #f1ef63, #ec9b90,#eed297);
+}
+#button
+{
+    background-color: lightseagreen;
+}
